@@ -15,7 +15,7 @@ This is a simple Express.js application that demonstrates how to integrate the [
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sslcommerz-express-demo.git
+git clone https://github.com/shohann/sslcommerz-express-demo.git
 cd sslcommerz-express-demo
 ```
 
